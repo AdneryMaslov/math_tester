@@ -5,7 +5,6 @@ import sympy as sp
 
 x = sp.symbols('x')
 
-
 def generate_derivative(diff):
     """
     Генерирует задачу по решению задач темы 2) Мат анализ

@@ -5,7 +5,6 @@ import sympy as sp
 
 from sympy import binomial
 
-
 def generate_probability(diff):
     """
     Генерирует задачу по решению задач темы 3) Вероятность и статистика

@@ -5,7 +5,6 @@ import sympy as sp
 
 x, y, z = sp.symbols('x y z')
 
-
 def generate_system(diff):
     """
     Генерирует задачу по решению задач темы 1) Алгебра

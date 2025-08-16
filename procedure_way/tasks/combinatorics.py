@@ -4,7 +4,6 @@ import random
 import math
 from sympy import binomial, subfactorial
 
-
 def generate_combinatorics(diff):
     """
     Генерирует задачу по решению задач темы 5) Комбинаторика

@@ -2,7 +2,6 @@
 
 import random
 
-
 def generate_logic(diff):
     """
     Генерирует задачу по решению задач темы 4) Логические задачи
