@@ -6,7 +6,6 @@ import re
 
 x = sp.symbols('x')
 
-a = "fdg"
 
 
 def parse_input(user_input: str):
